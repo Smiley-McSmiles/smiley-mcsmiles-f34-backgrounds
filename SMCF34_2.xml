@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Smiley McSmiles Fedora 34 Time of Day</name>
+        <filename>/usr/share/backgrounds/smiley-mcsmiles-f34-backgrounds/SMCF34_2_2.xml</filename>
+        <options>zoom</options>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Fedora 34 Day</name>
+        <filename>/usr/share/backgrounds/SMCF34/SMCF34-6.png</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#3c6eb4</pcolor>
+        <scolor>#294172</scolor>
+    </wallpaper>
+
+    <wallpaper deleted="false">
+        <name>Fedora 34 Night</name>
+        <filename>/usr/share/backgrounds/SMCF34/SMCF34-7.png</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#3c6eb4</pcolor>
+        <scolor>#294172</scolor>
+    </wallpaper>
+</wallpapers>

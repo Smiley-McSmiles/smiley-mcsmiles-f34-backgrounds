@@ -1,6 +1,10 @@
 #!/bin/bash
-sudo cp smiley-mcsmiles-f34-backgrounds.xml /usr/share/gnome-background-properties/
 sudo mkdir /usr/share/backgrounds/smiley-mcsmiles-f34-backgrounds
+sudo cp smiley-mcsmiles-f34-backgrounds.xml /usr/share/gnome-background-properties/
+sudo cp SMCF34_1.xml /usr/share/gnome-background-properties/
+sudo cp SMCF34_1_2.xml /usr/share/backgrounds/smiley-mcsmiles-f34-backgrounds/
+sudo cp SMCF34_2.xml /usr/share/gnome-background-properties/
+sudo cp SMCF34_2_2.xml /usr/share/backgrounds/smiley-mcsmiles-f34-backgrounds/
 sudo cp *.png /usr/share/backgrounds/smiley-mcsmiles-f34-backgrounds/
 cd ../
 rm -rf smiley-mcsmiles-f34-backgrounds
